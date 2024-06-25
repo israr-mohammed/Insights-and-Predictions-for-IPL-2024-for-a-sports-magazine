@@ -1,4 +1,4 @@
-# Insights-and-Predictions-for-IPL-2024-for-a-sports-magazine
+# Project:5-- Insights-and-Predictions-for-IPL-2024-for-a-sports-magazine
 💡 Problem Statement:
 'Sports Basics,' a recent entrant in the sports blog sphere, aimed to boost website traffic by releasing a special edition magazine on IPL 2024. This magazine endeavors to offer intriguing insights and facts for fans, analysts, and teams based on the last 3 years' data.
 
